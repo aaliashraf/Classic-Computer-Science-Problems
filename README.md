@@ -3,6 +3,8 @@ In this project we will try to solve famous computer science problems in differe
 ##### These are the things that we will learn:
 
 * Algorithms 
+* Data Structure
+* String Manuplation
 * Problems Solving 
 * Interview Preparations 
 * Quick Review of Concepts
